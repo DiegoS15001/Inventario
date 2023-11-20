@@ -1,0 +1,18 @@
+html,
+body {
+
+    background-image: url(https://raw.githubusercontent.com/Magtimus/Login-y-registro-con-html-css-js/main/assets/images/bg3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    padding-top: 15px;
+}
