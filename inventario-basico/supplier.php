@@ -12,7 +12,7 @@ $inventory->checkLogin();
 <link rel="stylesheet" href="css/dataTables.bootstrap.min.css" />
 <script src="js/supplier.js"></script>
 <script src="js/common.js"></script>
-<?php include('inc/container.php'); ?>
+
 <div class="container">
 
 	<?php include("menus.php"); ?>

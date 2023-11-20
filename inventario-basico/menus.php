@@ -1,4 +1,4 @@
-<nav class="navbar navbar-light bg-light navbar-expand-lg navbar-expand-md my-3">
+<nav class="navbar navbar-expand-lg navbar-dark my-3" style="background-color: #192D66;">
 	<div class="container-fluid">
 		<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 			<span class="navbar-toggler-icon"></span>

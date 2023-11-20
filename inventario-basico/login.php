@@ -39,9 +39,9 @@ if (!empty($_POST['email']) && !empty($_POST['pwd'])) {
 </style>
 <?php include('inc/container.php'); ?>
 
-<h1 class="text-center my-4 py-3 text-light" id="title">Sistema de inventarios equipo 10</h1>
+<h1 class="text-center my-4 py-3 text-light" id="title">Inicio de sesión</h1>
 <div class="col-lg-4 col-md-5 col-sm-10 col-xs-12">		
-			<div class="card-title h3 text-center mb-0 fw-bold">Inicio de sesión</div>			
+			<div class="card-title h3 text-center mb-0 fw-bold"></div>			
 				<form method="post" action="">
 					<div class="form-group">
 						<?php if ($loginError) { ?>
